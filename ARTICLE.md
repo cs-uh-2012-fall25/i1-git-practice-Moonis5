@@ -4,3 +4,6 @@ I like this article because it makes programming feel a little less intimidating
 
 ## Proof Reading
 Article checked for typos
+
+## Comments from Muyao (Jerry) Kong mk9014
+An interesting and informative article! The idea that coding should be practical - easy to delete but not easy to extend is intriguing. Sometimes I dwell on certain codes to make them "perfect", but that is time-consuming. **Coding is like a piece of art, but at the same time it's still not a true artwork**. Instead of obsessing over a part of code to make it reusable, sometime it's better for us to face its actual practicality.
